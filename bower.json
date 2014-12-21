@@ -2,6 +2,10 @@
   "name": "test-component",
   "version": "0.0.1",
   "homepage": "https://github.com/jkorona/test-component",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jkorona/test-component.git"
+  },
   "authors": [
     "jkorona <jan.korona@gmail.com>"
   ],
